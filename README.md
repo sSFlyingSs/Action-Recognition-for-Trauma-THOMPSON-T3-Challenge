@@ -118,26 +118,8 @@ python src/main.py
 
 ## 📈 Results
 
-(Add your results here)
-
-Example:
-
 * Top-1 Accuracy: XX%
 * Top-5 Accuracy: XX%
-
----
-
-## 📁 Project Structure
-
-```
-.
-├── src/
-├── data/
-├── models/
-├── results/
-├── diagrams/
-└── README.md
-```
 
 ---
 
